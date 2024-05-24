@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vinds ao meu perfil
 
-<!--
-**LelehSparrow/LelehSparrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Leticia
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizacao e compartilhamento dos meus projetos desenvolvido
+  
+- ### Voce entrar em contato comigo📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 00001082334108sp@al.educacao.sp.gov.br
+  
+
+
+![] (![image](https://github.com/LelehSparrow/LelehSparrow/assets/170743144/7756bf63-81c7-45f8-aa1a-aa7cbac5c0e5)
+
